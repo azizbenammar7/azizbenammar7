@@ -96,5 +96,5 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AzizBenAmmar-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/AzizBenAmmar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AzizBenAmmar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aziz-ben-ammar-1b6228279/)
 [![Email](https://img.shields.io/badge/Email-aziz.benammar@esprit.tn-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aziz.benammar@esprit.tn)
